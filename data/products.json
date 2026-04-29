@@ -1,0 +1,30 @@
+[
+  {
+    "product_id": "MW-STROLLER-001",
+    "name_en": "Maclaren Quest Stroller – Black",
+    "name_ar": "عربة ماكلارين كويست – أسود",
+    "category": "strollers",
+    "price_aed": 1499
+  },
+  {
+    "product_id": "MW-CARSEAT-002",
+    "name_en": "Graco 4Ever DLX 4-in-1 Car Seat",
+    "name_ar": "كرسي سيارة جراكو 4 في 1 ديلوكس",
+    "category": "car_seats",
+    "price_aed": 1899
+  },
+  {
+    "product_id": "MW-FORMULA-003",
+    "name_en": "Aptamil Profutura Stage 1 Formula 800g",
+    "name_ar": "حليب أبتاميل برو فوتورا مرحلة 1 – 800 جرام",
+    "category": "formula",
+    "price_aed": 220
+  },
+  {
+    "product_id": "MW-CARRIER-004",
+    "name_en": "Ergobaby Omni 360 Baby Carrier – Grey",
+    "name_ar": "حمالة إرغوبيبي أومني 360 – رمادي",
+    "category": "carriers",
+    "price_aed": 899
+  }
+]

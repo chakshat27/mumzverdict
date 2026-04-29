@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+
+# Data & Cache
+data/embed_cache.json
+eval_results.json
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
